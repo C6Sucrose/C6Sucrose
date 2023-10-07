@@ -33,11 +33,11 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 * [Brick Breaker] - A tile breaker built in x86 Assembly
 
 # Technologies
-Game Engines: Unity
-Front-End: React, HTML, CSS
-Back-End: Python, Django
-3D: Blender
-Languages: C#, C++, Assembly, Python
+* Game Engines: Unity
+* Front-End: React, HTML, CSS
+* Back-End: Python, Django
+* 3D: Blender
+* Languages: C#, C++, Assembly, Python
 
 # Goals
 * Expand full stack skills with Python/Django backend development
