@@ -43,6 +43,7 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 * Expand full stack skills with Python/Django backend development
 * Contribute to open source projects to build experience
 * Collaborate on games and interactive projects
+* Learn ML and incorporate it into my Projects
 
 Contact
 csixh2welveosix@proton.me
