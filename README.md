@@ -34,7 +34,7 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 
 # Technologies
 * Game Engines: Unity
-* Front-End: React, HTML, CSS
+* Front-End: React, Bootstrap, HTML, CSS
 * Back-End: Python, Django
 * 3D: Blender
 * Languages: C#, C++, Assembly, Python
