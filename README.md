@@ -23,10 +23,8 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 
 # Experience
 * 2+ years building games and interactive experiences using Unity and C#, Assembly x86 and C++
-* Adequate with back-end frameworks like Django for developing web APIs and applications
 * Experienced in 3D modeling and Digital content creation with Blender
 * Background in a conjunction of language levels like C++, C# and Assembly
-* Currently learning React to build front end UI interfaces while also brushing up my back end skills. I am also partaking in everything AI in order to get a better understanding of how and where to use ML efficiently.
 
 # Projects
 * [Farmageddon] - unity game built with C# scripting and Unity's own Shaderlab
@@ -34,9 +32,10 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 
 # Technologies
 * Game Engines: Unity
-* Front-End: React, Bootstrap, HTML, CSS
+* Front-End: Bootstrap, HTML, CSS
 * Back-End: Python, Django
-* 3D: Blender
+* Framework: Flutter
+* 3D: Blender, Flutterflow
 * Languages: C#, C++, Assembly, Python
 
 # Goals
@@ -44,6 +43,7 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 * Contribute to open source projects to build experience
 * Collaborate on games and interactive projects
 * Learn ML and incorporate it into my Projects
+* Master Flutter and integrate it into my Projects
 
 Contact
 csixh2welveosix@proton.me
