@@ -22,30 +22,29 @@ Digital Craftsman focused on skills with actual impact while also learning niche
 Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial Intelligence.
 
 # Experience
-* 2+ years building games and interactive experiences using Unity and C#, Assembly x86 and C++
-* Experienced in 3D modeling and Digital content creation with Blender
-* Background in a conjunction of language levels like C++, C# and Assembly
+* 1+ years building games and interactive experiences using Unity and C#, Assembly x86 and Python
+* Adequate experience in 3D modeling and Digital content creation with Blender
+* Background in a conjunction of language levels like C++, C#, Assembly and Python
 
 # Projects
 * [Farmageddon] - unity game built with C# scripting and Unity's own Shaderlab
-* [Brick Breaker] - A tile breaker built in x86 Assembly
+* [Brick Breaker] - A tile breaker Game built in x86 Assembly
 
 # Technologies
-* Game Engines: Unity
-* Front-End: Bootstrap, HTML, CSS
-* Back-End: Python, Django
-* Framework: Flutter
-* 3D: Blender, Flutterflow
+* Game Engines: Unity3D
+* Front-End: Bootstrap, HTML, CSS, React
+* Back-End:  Node.js, Express
+* Framework: Flutter, React
+* Assets/UI: Blender, Flutterflow
 * Languages: C#, C++, Assembly, Python
 
-# Goals
-* Expand full stack skills with Python/Django backend development
+# Future Goals
+* Expand full stack skills with Python/Django backend development, Implement NLP/Computer Vision in Video Games(NPCS, AI, Companions, Detection etc)
 * Contribute to open source projects to build experience
 * Collaborate on games and interactive projects
-* Learn ML and incorporate it into my Projects
-* Master Flutter and integrate it into my Projects
+* Learn LLMs and incorporate them into my Projects
 
 Contact
 csixh2welveosix@proton.me
 
-LinkedIn : H Ali
+LinkedIn : Huraira Ali
