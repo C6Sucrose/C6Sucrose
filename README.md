@@ -36,11 +36,13 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 * [Brik Breakers](https://github.com/C6Sucrose/Brik_Breakerz) - A 2D Tile Breaker Game created using x86 Assembly. it was a passion project
 
 # Technologies
-* Game Engines: Unity3D
-* Front-End: Bootstrap, HTML, CSS, React
+* Front-End: Bootstrap, HTML, CSS, React, Streamlit
+* Cloud: Microsoft Azure
 * Back-End:  Node.js, Express
+* Database: Firebase, Supabase, PostgreSQL
 * Framework: Flutter, React
-* Assets/UI: Blender, Flutterflow
+* Assets/UI: Blender, Flutterflow, Figma
+* Game Engines: Unity3D
 * Languages: C#, C++, Assembly, Python
 
 # Future Goals
