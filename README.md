@@ -52,4 +52,4 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 Contact
 csixh2welveosix@proton.me
 
-LinkedIn : {linkedin.com/in/huraira-ali-234056222}[Huraira Ali]
+LinkedIn : [Huraira Ali](linkedin.com/in/huraira-ali-234056222)
