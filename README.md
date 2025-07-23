@@ -23,7 +23,7 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 
 # Experience
 * 1+ years building games and interactive experiences using Unity and C#, Assembly x86 and Python
-* 1+ years diving into AI and its specialized aspects. Focused on ML/Gen AI/Computer Vision
+* 1+ years diving into AI and its specialized aspects. Focused on Computer Vision and Language Processing
 * Adequate experience in 3D modeling and Digital content creation with Blender
 * Background in a conjunction of language levels like C++, C#, Assembly and Python
 
@@ -44,12 +44,13 @@ Enrolled in Deggendorf Institute of Technology, doing my Bachelors in Artificial
 * Assets/UI: Blender, Flutterflow, Figma
 * Game Engines: Unity3D
 * Languages: C#, C++, Assembly, Python
+* Orchestration: Docker, some Kubernetes
 
 # Future Goals
 * Expand full stack skills with Python/Django backend development, Implement NLP/Computer Vision in Video Games(NPCS, AI, Companions, Detection etc)
 * Contribute to open source projects to build experience
 * Collaborate on games and interactive projects
-* Learn LLMs and incorporate them into my Projects
+* Learn and work on LLMs
 
 Contact
 csixh2welveosix@proton.me
