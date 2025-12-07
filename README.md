@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm **Huraira Ali**, a passionate developer with a focus on AI, game development, and Fintech on the side. I am doing my Bachelors in AI. I am mostly self-taught with experience in multiple programming languages and frameworks, continuously learning and growing in my field. I enjoy working on interesting projects that challenge my abilities and expand my knowledge.
+I'm **Huraira Ali**, a passionate developer with a focus on AI, Robotics, and some Game Development/Fintech on the side. I am doing my Bachelors in AI. I am mostly self-taught with experience in multiple programming languages and frameworks, continuously learning and growing in my field. I enjoy working on interesting projects that challenge my abilities and expand my knowledge.
 
 ## Skills & Technologies
 
@@ -12,7 +12,7 @@ I'm **Huraira Ali**, a passionate developer with a focus on AI, game development
 
 ## Connect with Me
 
-Email: csixh2welveosix@proton.me
+Email: huraira.ali.prof@proton.me
 
 linkedIn: [Huraira Ali](linkedin.com/in/huraira-ali-234056222)
 
